@@ -2,3 +2,7 @@ This is the initial text
 
 
 Added a new line of text
+
+
+
+New Line
